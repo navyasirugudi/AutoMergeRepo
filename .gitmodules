@@ -4,3 +4,6 @@
 [submodule "submodules/submodulerepo2"]
 	path = submodules/submodulerepo2
 	url = git@github.com:navyasirugudi/AutoMergeSubModule2
+[submodule "submodules/submodulerepo3"]
+	path = submodules/submodulerepo3
+	url = git@github.com:navyasirugudi/AutoMergeSubModule3
