@@ -1,0 +1,3 @@
+[submodule "submodules/submodulerepo"]
+	path = submodules/submodulerepo
+	url = git@github.com:navyasirugudi/AutoMergeSubModule
