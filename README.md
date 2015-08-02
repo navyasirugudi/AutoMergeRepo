@@ -1,1 +1,2 @@
 # AutoMergeRepo
+line1
